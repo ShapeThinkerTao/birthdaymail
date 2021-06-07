@@ -1,0 +1,6 @@
+spring:
+  threadpool:
+    corePoolSize: 10
+    maxPoolSize: 20
+    pendingPoolSize: 5000
+    keepAliveSeconds: 300
