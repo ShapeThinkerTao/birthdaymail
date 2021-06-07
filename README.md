@@ -7,6 +7,11 @@
 * ThreadPoolConfig.java 线程池配置类
 * MailTask.java 发送邮件定时任务类
 * SendMail.java 发送邮件线程
+* QuartzConfiguration.java QuartzConfigurationManger.java QuartzJobFactory.java quartz配置类
+
+* quartz-dev.properties 定时任务时间的配置
+
+
 
 
 
